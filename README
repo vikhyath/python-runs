@@ -1,1 +1,8 @@
-Repo to hold various python trials.
+Various common problems solved in python.
+-----------------------------------------
+
+custom-dictionary-sort - Sort the input character array based on the dictionary given.
+
+repeated-elements - Finding a maximum of k-1 most repeated elements, repeated n/k times from a set n. Run time O(n) and space complexity O(k)
+
+
