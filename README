@@ -8,5 +8,4 @@ TODO: need to write 1 line description of all files in the below format, here is
 
 - hr-two-arrays - https://www.hackerrank.com/challenges/two-arrays
 You are given two integer arrays, A and B, each containing N integers. The size of the array is <= 1000. You are free to permute the order of the elements in the arrays.
-
 Now for the real question - is there an arrangement of the arrays such that Ai+Bi>=K for all i where Ai denotes the ith element in the array A.
