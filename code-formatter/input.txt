@@ -1,0 +1,5 @@
+input.txt
+abcde fghi
+abcd efg hij
+ab de fg hi jk lm no p
+input.txt but-this-guy-has-a-space-after-SIZE
