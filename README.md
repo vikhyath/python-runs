@@ -19,5 +19,5 @@ Given N integers [N<=10^5], count the total pairs of integers that have a differ
       3. if space is found after the SIZE allowed chars, split after. Let us say SIZE is 5 and space is found at 7th, split at 7th . output is written to output.txt
       4. see code and input.txt for various cases
 
-- hr-ide-comment-extractor - https://www.hackerrank.com/contests/regex-practice-1/challenges/ide-identifying-comments
+- hr-regex-ide-comment-extractor - https://www.hackerrank.com/contests/regex-practice-1/challenges/ide-identifying-comments
  Your task is to write a program, which accepts as input, a C or C++ or Java program and outputs only the comments from those programs. Your program will be tested on source codes of not more than 200 lines.
