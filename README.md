@@ -21,3 +21,6 @@ Given N integers [N<=10^5], count the total pairs of integers that have a differ
 
 - hr-regex-ide-comment-extractor - https://www.hackerrank.com/contests/regex-practice-1/challenges/ide-identifying-comments
  Your task is to write a program, which accepts as input, a C or C++ or Java program and outputs only the comments from those programs. Your program will be tested on source codes of not more than 200 lines.
+
+- hr-regex-latitude-longitude - https://www.hackerrank.com/contests/regex-practice-1/challenges/detecting-valid-latitude-and-longitude
+Determine valid latitude/longitude pairs. Given a line of text which possibly contains the latitude and longitude of a point, can you use regular expressions to identify the latitude and longitude referred to.
