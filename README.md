@@ -26,6 +26,6 @@ Given N integers [N<=10^5], count the total pairs of integers that have a differ
 Determine valid latitude/longitude pairs. Given a line of text which possibly contains the latitude and longitude of a point, can you use regular expressions to identify the latitude and longitude referred to.
 
 - custom-hashing - 
-    1. Custom hashmap in python, TODO: change dict to a list to better reflect array
+    1. custom hashmap in python, TODO: change dict to a list to better reflect array
     2. SIZE is the max size of hashmap
-    3. Collisions resolved using linear probing
+    3. collisions resolved using linear probing
