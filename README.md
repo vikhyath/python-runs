@@ -29,3 +29,9 @@ Determine valid latitude/longitude pairs. Given a line of text which possibly co
     1. custom hashmap in python, TODO: change dict to a list to better reflect array
     2. SIZE is the max size of hashmap
     3. collisions resolved using linear probing
+
+- language-checker - http://www.careercup.com/question?id=4774716350922752<br>In a language, there are only 4 characters h, i, r, e. and we have to write a function which takes a string as input and returns whether the given input string is a valid-word or not.<br>
+Runs in O(n) time, constant size space, the check terminates ones it determines that an alien character not present in our language definition has been found.<br>
+Definition of valid word : 
+    1. A given word is a valid word if it is of the form h^n i^n r^n e^n where n >=1. (eg: hhiirree) 
+    2. Valid words has concatenation property i.e. if w1 and w2 are valid words w1w2 is also a valid word.
