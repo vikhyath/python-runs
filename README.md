@@ -1,4 +1,4 @@
-Various common problems solved in python.
+Various interesting problems solved in python.
 -----------------------------------------
 TODO: need to write 1 line description of all files in the below format, here is a start.
 
