@@ -35,3 +35,6 @@ Runs in O(n) time, constant size space, the check terminates ones it determines 
 Definition of valid word : 
     1. A given word is a valid word if it is of the form h^n i^n r^n e^n where n >=1. (eg: hhiirree) 
     2. Valid words has concatenation property i.e. if w1 and w2 are valid words w1w2 is also a valid word.
+
+- integer-array-sum: You have two integer arrays. Treat these arrays as if they were big numbers,
+with one digit in each slot. Perform addition on these two arrays and store the results in a new array. Ref: http://www.careercup.com/question?id=6330205329162240
