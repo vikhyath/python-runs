@@ -2,7 +2,7 @@ import subprocess
 
 # subprocess is a newer module which deprecates system.os
 
-# subprocess.call(*popenargs, **kwargs) Run command with arguments. Wait for command to complete, then return the returncode attribute.
+# subprocess.call(*popenargs, **kwargs) Run command with arguments. Wait for command to complete, then return the returncode (success or failure) attribute.
 
 # If you create a Popen object, you must call the sp.wait() yourself.
 
