@@ -2,6 +2,8 @@ Various interesting problems solved in python.
 -----------------------------------------
 TODO: need to write 1 line description of all files in the below format, here is a start.
 
+- static-and-inheritance - Program illustrating static and inheritance.
+
 - custom-dictionary-sort - Sort the input character array based on the dictionary given.
 
 - repeated-elements - Finding a maximum of k-1 most repeated elements, repeated n/k times from a set n. Run time O(n) and space complexity O(k).

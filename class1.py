@@ -40,7 +40,7 @@ def x():
 	print 'this is x'
 
 # note how y takes the method x
-# note how init created a list within the context of self. now this init can be used from anywhere which has a self context
+# note how init created a list within the context of self. now this list can be used from anywhere which has a self context
 class TestMethods:
 	y = x
 	def __init__(self):
