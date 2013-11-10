@@ -42,3 +42,5 @@ Definition of valid word :
 with one digit in each slot. Perform addition on these two arrays and store the results in a new array. Ref: http://www.careercup.com/question?id=6330205329162240
 
 - http://codercareer.blogspot.com/2011/10/no-09-numbers-with-given-sum.html | Given an increasingly sorted array and a number s, please find two numbers whose sum is s. If there are multiple pairs with sum s, just output any one of them.
+
+- Dynamic programming: Longest increasing subsequence. Given an unsorted array, find the max length of subsequence in which the numbers are in incremental order. Refer http://stackoverflow.com/questions/2631726/how-to-determine-the-longest-increasing-subsequence-using-dynamic-programming for a great discussion.
