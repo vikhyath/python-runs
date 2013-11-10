@@ -5,7 +5,7 @@ x = 'this is not a bad choice'
 #compile a pattern
 pattern = re.compile('not.*bad', re.I) # re.I says ignore case
 
-#search for that pattern in x, returns a list of matches
+#search for that pattern in x and return the *first* match that satisfies condition
 y = pattern.search(x); #will return the match object <_sre.SRE_Match object at 0x101e3d238>
 
 # The match() function only checks if the RE matches at the beginning of the string while search() will 
