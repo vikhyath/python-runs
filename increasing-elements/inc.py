@@ -1,3 +1,7 @@
+# Three increasing elements in an array: O(n).
+# Given an array of integers A, please find three indexes i, j, k,
+# such that i<j<k and A[i]<A[j]<A[k]. Refer http://codercareer.blogspot.com/2013/02/no-42-three-increasing-elements-in-array.html
+
 def main():
     # alist = [3, 2, 5, 1, 4, 7, 9, 6, 8]
     # alist = [10, 40, 1, 2, 5]
