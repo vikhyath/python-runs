@@ -47,7 +47,7 @@ def main():
         #   that is lesser than i, j but greater than tempi and tempj
         elif num <= j:
             # if number is less than i and tempi is not init yet OR number is <= tempi, this is needed to ensure tempi
-            #   will only store absolute minimum and not greedily take everything that is less than i
+            #   will only store absolute minimum and not greedily take everything that is less than j
             if num <= i and (tempi == -1 or num <= tempi):
                 tempi = num
             else:
