@@ -44,3 +44,5 @@ with one digit in each slot. Perform addition on these two arrays and store the 
 - http://codercareer.blogspot.com/2011/10/no-09-numbers-with-given-sum.html | Given an increasingly sorted array and a number s, please find two numbers whose sum is s. If there are multiple pairs with sum s, just output any one of them.
 
 - Dynamic programming: O(nlogn) Longest increasing subsequence. Given an unsorted array, find the max length of subsequence in which the numbers are in incremental order. Refer http://stackoverflow.com/questions/2631726/how-to-determine-the-longest-increasing-subsequence-using-dynamic-programming for a great discussion.
+
+- Three increasing elements in an array: O(n). Given an array of integers A, please find three indexes i, j, k, such that i<j<k and A[i]<A[j]<A[k]. Refer http://codercareer.blogspot.com/2013/02/no-42-three-increasing-elements-in-array.html
