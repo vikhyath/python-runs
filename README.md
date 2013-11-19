@@ -2,7 +2,7 @@ Various interesting problems solved in python.
 -----------------------------------------
 TODO: need to write 1 line description of all files in the below format, here is a start.
 
-- travis/switchscript - Script to parse switch logs for Chris Travis
+- travis/switchscript - Script to parse switch logs for Chris Travis.
 
 - static-and-inheritance - Program illustrating static and inheritance.
 
