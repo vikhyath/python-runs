@@ -22,7 +22,8 @@ def main():
                 # if module seen is set to true, print the current line and go to next
                 if moduleseen == 1:
                     moduleseen = 0
-                    o.write(line + ',')
+                    alist = re.findall(r'\d{1,}', line)
+                    o.write(''.join(alist) + ',')
                     continue
 
 
