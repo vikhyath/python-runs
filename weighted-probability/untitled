@@ -1,0 +1,11 @@
++-----------------+
+| fruit  | weight |
++-----------------+
+| apple  |   4    |
+| orange |   2    |
+| lemon  |   1    |
++-----------------+
+I need to return random fruit. But apple should be picked 4 times frequently then lemon and 2 times frequently then orange.
+
+In more general case it should be f(weight) times frequently.
+
